@@ -1,0 +1,8 @@
+What to correct:
+1.	Add missing descriptions
+2.	Correct the existing descriptions and summaries
+3.	Start the Description section with a third-person singular verb and end the sentence with a full stop (period). This section should include more detailed information on the endpoint and any additional data that users may find useful, e.g.
+a.	Uses query keys to retrieve a list of the existing users.
+4.	Start the Summary section with a second-person singular verb and no full stop (period) at the end of the sentence. It should include the most concise information about the endpoint, e.g.
+a.	Get users
+
