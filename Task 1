@@ -1,0 +1,7 @@
+Task description
+Release is coming, and you need to update the json file that was created in a hurry by a developer.
+1.	Go to https://github.com/AnnaYats/APIWorkshopTCWorld.
+2.	Download the petstore_errors.json file to your computer.
+3.	Open the file with any text editor (Notepad ++, Visual Studio Code, Atom).
+4.	Edit the descriptions and summaries for the /store/order endpoint, POST and DELETE methods.
+5.	Try out your corrected petstore_errors.json file at https://redocly.github.io/redoc/  by using the Upload a file button.
